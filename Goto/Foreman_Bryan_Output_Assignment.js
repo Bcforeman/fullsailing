@@ -18,9 +18,9 @@ var chefName = "Chef Schmuley";
 var weHaveEnoughSeats;
 
 
-amountofChicken = 75;
-numberofSeats = 50;
-amountofPatrons = 4;
+amountofChicken = 30;
+numberofSeats = 40;
+amountofPatrons = 35;
 
 
 //do we have enough seats?
@@ -35,7 +35,7 @@ if(numberofSeats >= amountofPatrons){
 
 
 if(weHaveEnoughSeats) {
-    if(amountofChicken >= numberofSeats){
+    if(amountofChicken >= amountofPatrons){
 
         weHaveEnoughChicken = true;
     }else {
@@ -52,7 +52,9 @@ if(weHaveEnoughChicken){
     }
 
 }
-
+else {
+    document.write (chefName + " says, dinner cannot be served because we have " + amountofChicken + " chickens and " + amountofPatrons + " Patrons");
+}
 
 
 
