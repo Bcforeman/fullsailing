@@ -34,7 +34,7 @@ if(numberofSeats >= amountofPatrons){
 }
 
 
-if(weHaveEnoughSeats){
+if(weHaveEnoughSeats) {
     if(amountofChicken >= numberofSeats){
 
         weHaveEnoughChicken = true;
@@ -43,7 +43,9 @@ if(weHaveEnoughSeats){
         weHaveEnoughChicken = false;
     }
 }
-
+else {
+    document.write(" Dinner cannot be Served");
+}
 if(weHaveEnoughChicken){
     if(weHaveEnoughSeats){
         document.write(chefName + " , Dinner Is Served");
