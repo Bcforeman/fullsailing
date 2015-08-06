@@ -18,7 +18,7 @@ var chefName = "Chef Schmuley";
 var weHaveEnoughSeats;
 
 
-amountofChicken = 100;
+amountofChicken = 75;
 numberofSeats = 50;
 amountofPatrons = 4;
 
@@ -46,7 +46,7 @@ if(weHaveEnoughSeats){
 
 if(weHaveEnoughChicken){
     if(weHaveEnoughSeats){
-        document.write(chefName + " ,Dinner Is Served");
+        document.write(chefName + " , Dinner Is Served");
     }
 
 }
