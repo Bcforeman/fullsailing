@@ -46,7 +46,7 @@ if(weHaveEnoughSeats){
 
 if(weHaveEnoughChicken){
     if(weHaveEnoughSeats){
-        document.write("Dinner Is Served");
+        document.write(chefName + " ,Dinner Is Served");
     }
 
 }
