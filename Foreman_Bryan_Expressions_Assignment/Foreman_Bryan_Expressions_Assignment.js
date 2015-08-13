@@ -38,6 +38,6 @@ var totalSwordArea = swordDimensions[0] * swordDimensions[1] * swordDimensions[2
 //area squared of leather shoulder strap
 var areaStrap = strapLength + strapWidth;
 
-console.log(areaStrap);
+console.log("Total area of material needed for your sword strap will be " + areaStrap + "inches ");
 console.log("The total area of your finished sword will be " + totalSwordArea + "inches ");
 
