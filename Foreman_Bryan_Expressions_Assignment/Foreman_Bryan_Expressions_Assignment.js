@@ -39,5 +39,5 @@ var totalSwordArea = swordDimensions[0] * swordDimensions[1] * swordDimensions[2
 var areaStrap = strapLength + strapWidth;
 
 console.log(areaStrap);
-console.log(totalSwordArea);
+console.log("The total area of your finished sword will be " + totalSwordArea + "inches ");
 
