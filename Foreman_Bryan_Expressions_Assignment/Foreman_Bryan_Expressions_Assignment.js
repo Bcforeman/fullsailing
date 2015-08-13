@@ -14,8 +14,9 @@ var swordDepth;
 var strapLength;
 //width of leather shoulder strap in inches
 var strapWidth;
-
+//dimensions of average sword strap length in inches
 strapLength = 22;
+//dimensions of average sword strap width in inches
 strapWidth = 2;
 
 //height prompt of sword
@@ -24,9 +25,19 @@ swordHeight = prompt("Enter height of sword forged in inches: ");
 swordWidth = prompt("Enter width of sword forged in inches: ");
 //depth prompt of sword
 swordDepth = prompt("Enter depth of sword forged in inches: ");
-
+//dimensions of finished sword in inches
+var swordDimensions = [0, 0, 0];
+//sword dimensions for height input by user
+swordDimensions[0] =Number(swordHeight);
+//sword dimensions for width input by user
+swordDimensions[1] =Number(swordWidth);
+//sword dimensions for depth input by user
+swordDimensions[2] =Number(swordDepth);
+//calculating area of sword's dimensions
+var totalSwordArea = swordDimensions[0] * swordDimensions[1] * swordDimensions[2];
 //area squared of leather shoulder strap
-var areaStrap = strapLength * strapWidth ;
+var areaStrap = strapLength + strapWidth;
 
-
+console.log(areaStrap);
+console.log(totalSwordArea);
 
