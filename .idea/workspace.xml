@@ -51,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/Foreman_Bryan_Expressions_Assignment.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-5.625">
-              <caret line="9" column="7" selection-start-line="7" selection-start-column="67" selection-end-line="9" selection-end-column="7" />
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -60,8 +60,8 @@
       <file leaf-file-name="Foreman_Bryan_Expressions_Assignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/Foreman_Bryan_Expressions_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.79252577">
-              <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.77319586">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -265,7 +265,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439502887791</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final commit">
+      <created>1439503234399</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1439503234399</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,7 +313,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="added end sword variable" />
     <MESSAGE value="added end strap variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="added end strap variable" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -386,15 +393,15 @@
     <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/Foreman_Bryan_Expressions_Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="7" selection-start-line="7" selection-start-column="67" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/Foreman_Bryan_Expressions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79252577">
-          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.77319586">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
