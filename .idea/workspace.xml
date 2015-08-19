@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52d4fe92-d17a-46f4-b73e-d53b78b1b27d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js" afterPath="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Asssignment.html" afterPath="$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Asssignment.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="df33d47e-3f39-4271-8944-b29ae5f1296a" name="Rejected commit: Default" comment="" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Foreman_Bryan_Output_Assignment.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Assignment.js">
+      <file leaf-file-name="Foreman_Bryan_Conditionals_Assignment.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.5219072">
+              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -38,21 +38,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Foreman_Bryan_Conditionals_Assignment.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.html">
+      <file leaf-file-name="Foreman_Bryan_Output_Assignment.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13962767">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Foreman_Bryan_Conditionals_Assignment.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js">
+      <file leaf-file-name="Foreman_Bryan_Expressions_Assignment.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/Foreman_Bryan_Expressions_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Foreman_Bryan_Conditionals_Assignment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -61,8 +73,8 @@
       <file leaf-file-name="Foreman_Bryan_Output_Asssignment.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Asssignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="66" />
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -88,12 +100,12 @@
         <option value="$PROJECT_DIR$/Goto/GTT1.js" />
         <option value="$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Assignment.js" />
         <option value="$PROJECT_DIR$/Goto/Practice.js" />
-        <option value="$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Asssignment.html" />
         <option value="$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/js.js" />
         <option value="$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/Foreman_Bryan_Expressions_Assignment.html" />
         <option value="$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/Foreman_Bryan_Expressions_Assignment.js" />
-        <option value="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js" />
         <option value="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.html" />
+        <option value="$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Asssignment.html" />
+        <option value="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js" />
       </list>
     </option>
   </component>
@@ -292,7 +304,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439523529366</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First commit">
+      <created>1440000924236</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1440000924236</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -304,7 +322,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19944406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.043085475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -336,7 +354,8 @@
     <MESSAGE value="added end strap variable" />
     <MESSAGE value="final commit" />
     <MESSAGE value="final Final commit. addded addendum to shoulder strap" />
-    <option name="LAST_COMMIT_MESSAGE" value="final Final commit. addded addendum to shoulder strap" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -347,9 +366,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="55" column="141" selection-start-line="55" selection-start-column="141" selection-end-line="55" selection-end-column="141" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -365,9 +382,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="55" column="141" selection-start-line="55" selection-start-column="141" selection-end-line="55" selection-end-column="141" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -402,6 +417,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Asssignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Expressions_Assignment/Foreman_Bryan_Expressions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -412,37 +451,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Assignment.js">
+    <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.5219072">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Goto/Foreman_Bryan_Output_Asssignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13962767">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
