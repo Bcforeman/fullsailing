@@ -12,6 +12,8 @@ var amountOfGuests;
 var amountOfRooms;
 //amount of slices of cake for party guests
 var amountOfSlices;
+//amount of supplies that will be provided for the party
+var amountOfSupplies;
 //prompt for the amount of people at party
 amountOfGuests = prompt("Enter the amount of people in your party: ");
 //prompt for the amount of rooms needed
@@ -26,3 +28,15 @@ partyOrder[0] = Number(amountOfGuests);
 partyOrder[1] = Number(amountOfRooms);
 //
 partyOrder[2] = Number(amountOfSlices);
+//
+amountOfCake = partyOrder [0] / partyOrder [2];
+//
+amountOfSupplies = partyOrder [0] * partyOrder [1];
+//
+if(amountOfGuests >= amountOfSlices){
+    notEnoughCake = true;
+    } else {
+    notEnoughCake = false;
+}
+    document.write ("Your order cannot be placed");
+
