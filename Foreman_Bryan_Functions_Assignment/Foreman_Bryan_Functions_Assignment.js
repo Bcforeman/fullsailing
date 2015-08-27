@@ -6,33 +6,33 @@
 // One must be Powerball with a PB Numbers
 // one Must...not
 //
-    function GenerateLotto( type, numbers) {
-        //Lotto Numbers to Generate
-        var lottoNumbers;
-        var lottoRange;
-        if(lottoType == 1) {
-            //User Chose Florida Lottery
-            lottoNumbers = new Array(5);
-            lottoRange = 53;
-        } else {
-            //User Chose Powerball
-            lottoNumbers = new Array(6);
-            lottoRange = 59;
-        }
+function GenerateLotto(lottoType) {
+    var lottoNumbers;
+    //Lotto Numbers to Generate
+    var lottoRange;
+    if(lottoType == 1) {
+        //User Chose Florida Lottery
+        lottoNumbers = [0,0,0,0,0];
+        lottoRange = 53;
+    } else {
+        //User Chose Powerball
+        lottoNumbers = [0,0,0,0,0,0];
+        lottoRange = 59;
+    }
 
-        //Variable to store our next random number
-        var nextRandom;
-        //Loop through all of our lottery numbers
-        var i = 0;
-        while(i < 5){
-
-
-            //Generate Random Number
-            nextRandom = Math.random() * lottoRange + 1;
+    //Variable to store our next random number
+    var nextRandom;
+    //Loop through all of our lottery numbers
+    var i = 0;
+    while (i < 5) {
+        //Generate Random Number
+        nextRandom = Math.floor(Math.random() * lottoRange) + 1;
+        console.log ("[" + i + "] Random is " + nextRandom);
 
         //Check that we don't already have that number
-        for (var j = 0; j < 5; j++) {
-            if(lottoNumbers[j] == nextRandom) {
+        for (var j = 0; j < lottoNumbers.length; j++) {
+            if(lottoNumbers[j] == nextRandom.value) {
+                //console.log("Duplicate number! " + nextRandom.value + " MATH IS FUN BECAUSE " + lottoNumbers[j] + "==" + nextRandom);
                 //Number exists, decrement lotto number
                 i--;
                 //Exit for loop
@@ -48,23 +48,28 @@
     }
 
     if(lottoType == 2) {
-        lottoNumbers[6] = Math.random() * 53 + 1;
+        lottoNumbers[lottoNumbers.length - 1] = Math.floor(Math.random() * 35) + 1;
     }
+
+    return lottoNumbers;
 }
 
 //Ask the user what kind of lottery they wish to play
 var lottoType = prompt(" Press 1 - Florida, Press 2 - Powerball");
-var lottoNumbers;
+var Lottery = GenerateLotto(lottoType);
 
-GenerateLotto(lottoType, lottoNumbers);
+var OutWords = "Here are your numbers for the " + ((lottoType == 1) ? "Florida" : "Powerball") + " lottery:\n";
 
-Console.write("Here are your numbers for the " + lotteryName + " lottery:");
-for(var i = 0; i < numberCount - 1; i++) {
-    Console.write(lotteryNumbers[i] + ", ");
+for(var i = 0; i < Lottery.length; i++) {
+    OutWords += Lottery[i];
+    if(i < Lottery.length - 1) {
+        OutWords += ", ";
+    }
 }
 
-Console.write(LotteryNumbers[numberCount]);
-Console.write("Good Luck!");
 
+if(lottoType == 2) {
+    OutWords += " Powerball";
+}
 
-
+console.log(OutWords + "\nGood Luck!");
