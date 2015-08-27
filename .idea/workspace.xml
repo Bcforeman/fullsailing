@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52d4fe92-d17a-46f4-b73e-d53b78b1b27d" name="Default" comment="First commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js" afterPath="$PROJECT_DIR$/Foreman_Bryan_Conditionals_Assignment/Foreman_Bryan_Conditionals_Assignment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foreman_Bryan_Functions_Assignment/Foreman_Bryan_Functions_Assignment.html" afterPath="$PROJECT_DIR$/Foreman_Bryan_Functions_Assignment/Foreman_Bryan_Functions_Assignment.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foreman_Bryan_Functions_Assignment/Foreman_Bryan_Functions_Assignment.js" afterPath="$PROJECT_DIR$/Foreman_Bryan_Functions_Assignment/Foreman_Bryan_Functions_Assignment.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -40,8 +39,8 @@
       <file leaf-file-name="Foreman_Bryan_Functions_Assignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Functions_Assignment/Foreman_Bryan_Functions_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8840206">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6185567">
+              <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
               <folding>
                 <element signature="n#!!doc;n#GenerateLotto#0" expanded="false" />
               </folding>
@@ -319,7 +318,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440642226234</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Second Commit">
+      <created>1440689660680</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1440689660680</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -366,7 +371,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit with figures" />
     <MESSAGE value="Third commit with prompts and figures added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third commit with prompts and figures added" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -523,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Functions_Assignment/Foreman_Bryan_Functions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8840206">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6185567">
+          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
           <folding>
             <element signature="n#!!doc;n#GenerateLotto#0" expanded="false" />
           </folding>

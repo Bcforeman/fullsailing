@@ -5,7 +5,7 @@
 //Generate 2 Lottery Numbers
 // One must be Powerball with a PB Numbers
 // one Must...not
-
+//
     function GenerateLotto( type, numbers) {
         //Lotto Numbers to Generate
         var lottoNumbers;
@@ -53,7 +53,7 @@
 }
 
 //Ask the user what kind of lottery they wish to play
-var lottoType = prompt("1 - Florida, 2 - Powerball");
+var lottoType = prompt(" Press 1 - Florida, Press 2 - Powerball");
 var lottoNumbers;
 
 GenerateLotto(lottoType, lottoNumbers);
