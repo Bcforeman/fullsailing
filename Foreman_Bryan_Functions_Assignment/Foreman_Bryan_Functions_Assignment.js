@@ -12,11 +12,11 @@
         var lottoRange;
         if(lottoType == 1) {
             //User Chose Florida Lottery
-            lottoNumbers = new int[5];
+            lottoNumbers = new Array(5);
             lottoRange = 53;
         } else {
             //User Chose Powerball
-            lottoNumbers = new int[5];
+            lottoNumbers = new Array(6);
             lottoRange = 59;
         }
 
@@ -28,7 +28,7 @@
 
 
             //Generate Random Number
-            nextRandom = Math.Random() * lottoRange + 1;
+            nextRandom = Math.random() * lottoRange + 1;
 
         //Check that we don't already have that number
         for (var j = 0; j < 5; j++) {
@@ -48,7 +48,7 @@
     }
 
     if(lottoType == 2) {
-        lottoNumbers[6] = Math.Random() * 53 + 1;
+        lottoNumbers[6] = Math.random() * 53 + 1;
     }
 }
 
