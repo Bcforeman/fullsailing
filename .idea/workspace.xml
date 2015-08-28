@@ -39,8 +39,8 @@
       <file leaf-file-name="Foreman_Bryan_Functions_Assignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Functions_Assignment/Foreman_Bryan_Functions_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8840206">
-              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.033505153">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding>
                 <element signature="n#!!doc;n#GenerateLotto#0" expanded="false" />
               </folding>
@@ -336,7 +336,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440690233931</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Final Commit">
+      <created>1440693685227</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1440693685227</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -386,7 +392,8 @@
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Command User prompts" />
     <MESSAGE value="changed math functions, active debugging" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed math functions, active debugging" />
+    <MESSAGE value="Final Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -543,8 +550,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Foreman_Bryan_Functions_Assignment/Foreman_Bryan_Functions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8840206">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.033505153">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding>
             <element signature="n#!!doc;n#GenerateLotto#0" expanded="false" />
           </folding>

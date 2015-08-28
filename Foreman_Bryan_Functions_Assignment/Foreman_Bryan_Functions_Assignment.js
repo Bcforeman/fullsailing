@@ -32,7 +32,6 @@ function GenerateLotto(lottoType) {
         //Check that we don't already have that number
         for (var j = 0; j < lottoNumbers.length; j++) {
             if(lottoNumbers[j] == nextRandom.value) {
-                //console.log("Duplicate number! " + nextRandom.value + " MATH IS FUN BECAUSE " + lottoNumbers[j] + "==" + nextRandom);
                 //Number exists, decrement lotto number
                 i--;
                 //Exit for loop
